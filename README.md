@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VEX CAD Files
 
 This repository contains most of the V5 parts, with most files provided in STEP format so they can be used in VexBuilder.
@@ -11,3 +12,6 @@ This repository contains most of the V5 parts, with most files provided in STEP 
 ## Usage
 
 Use these files as importable CAD references for VexBuilder and related design workflows.
+=======
+# VEX-CAD-FILES
+>>>>>>> 1755e8e5f1e5b88c10c83d74eec777990ce7fd55
